@@ -24,6 +24,6 @@ Here are some ideas to get you started:
         <a href="https://github.com/mypingqiu/crud_mode">
           <img src="https://img.shields.io/badge/-crud_mode-success.svg" /></a>
         <a href="https://github.com/mypingqiu">
-          <img src="https://komarev.com/ghpvc/?username=dahuoyzs&color=ff69b4&label=Views" /></a>
+          <img src="https://komarev.com/ghpvc/?username=Mypingqiu&color=ff69b4&label=Views" /></a>
   </p>
 </p>
