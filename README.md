@@ -22,9 +22,9 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/-EasyChat-green.svg" </a>
       <a href="https://github.com/dahuoyzs/CtrlCQ">
         <img src="https://img.shields.io/badge/-CtrlCQ-brightgreen.svg" </a>
-        <a href="https://dahuoyzs.github.io/javapdf/">
+        <a href="https://www.yuque.com/chuxinle">
           <img src="https://img.shields.io/badge/-javapdf-success.svg" /></a>
-        <a href="https://github.com/dahuoyzs">
+        <a href="https://github.com/mypingqiu">
           <img src="https://komarev.com/ghpvc/?username=dahuoyzs&color=ff69b4&label=Views" /></a>
   </p>
 </p>
