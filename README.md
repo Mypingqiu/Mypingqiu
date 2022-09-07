@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-
   <a href="https://github.com/Mypingqiu">
-    <img src="https://github-readme-stats.vercel.app/api?username=dahuoyzs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
+    
+    <img src="https://github-readme-stats.vercel.app/api?username=Mypingqiu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
   <p align="center">
-    <a href="https://github.com/dahuoyzs/EasyChat">
-      <img src="https://img.shields.io/badge/-EasyChat-green.svg" </a>
-      <a href="https://github.com/dahuoyzs/CtrlCQ">
-        <img src="https://img.shields.io/badge/-CtrlCQ-brightgreen.svg" </a>
-        <a href="https://www.yuque.com/chuxinle">
-          <img src="https://img.shields.io/badge/-javapdf-success.svg" /></a>
+    <a href="https://github.com/mypingqiu/spring_project">
+      <img src="https://img.shields.io/badge/-spring_project-green.svg" </a>
+      <a href="https://github.com/mypingqiu/kyymc">
+        <img src="https://img.shields.io/badge/-kyymc-brightgreen.svg" </a>
+        <a href="https://github.com/mypingqiu/crud_mode">
+          <img src="https://img.shields.io/badge/-crud_mode-success.svg" /></a>
         <a href="https://github.com/mypingqiu">
           <img src="https://komarev.com/ghpvc/?username=dahuoyzs&color=ff69b4&label=Views" /></a>
   </p>
