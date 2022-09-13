@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⚡ 知识库: [烽火蓝染](https://www.yuque.com/chuxinle)
+-
 <p align="center">
   <a href="https://github.com/Mypingqiu">
     <img src="https://github-readme-stats.vercel.app/api?username=Mypingqiu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
@@ -27,6 +27,18 @@ Here are some ideas to get you started:
           <img src="https://komarev.com/ghpvc/?username=Mypingqiu&color=ff69b4&label=Views" /></a>
   </p>
 </p>
+
+**我 | 在这里**
+👨‍🎓 读书 | 郑州· 软件开发 
+👨‍💻 工作 | 北京 ·大数据开发工程师
+🎃 爱好 | 研究技术、动漫、健身、吃吃喝喝 ~ 
+
+🏷️ 标签 | 男 95后有责任心有时间观念有上进心
+📥 邮箱 | 18338456560@163.com 
+
+**社区 | 偶尔玩**
+💫 [掘金@平丘月初](https://juejin.cn/user/3703602106088413/posts)
+💫 [语雀@烽火蓝染](https://www.yuque.com/chuxinle)
 
 ## 今年汇总 ✨
 
