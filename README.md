@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--
-
 ## 我 | 在这里
 - 👨‍🎓 读书 | 郑州· 软件开发 
 - 👨‍💻 工作 | 北京 ·大数据开发工程师
