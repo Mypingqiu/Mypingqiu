@@ -13,20 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -
-<p align="center">
-  <a href="https://github.com/Mypingqiu">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mypingqiu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
-  <p align="center">
-    <a href="https://github.com/mypingqiu/spring_project">
-      <img src="https://img.shields.io/badge/-spring_project-green.svg" </a>
-      <a href="https://github.com/mypingqiu/kyymc">
-        <img src="https://img.shields.io/badge/-kyymc-brightgreen.svg" </a>
-        <a href="https://github.com/mypingqiu/crud_mode">
-          <img src="https://img.shields.io/badge/-crud_mode-success.svg" /></a>
-        <a href="https://github.com/mypingqiu">
-          <img src="https://komarev.com/ghpvc/?username=Mypingqiu&color=ff69b4&label=Views" /></a>
-  </p>
-</p>
 
 ## 我 | 在这里
 - 👨‍🎓 读书 | 郑州· 软件开发 
